@@ -1,0 +1,7 @@
+th\co\ipassion\connection\ConnectionDB.class
+th\co\ipassion\main\MasicApplication.class
+th\co\ipassion\core\CoreApplication.class
+th\co\ipassion\dto\TableDTO.class
+th\co\ipassion\dto\ColumnDTO.class
+th\co\ipassion\prop\PropCon.class
+th\co\ipassion\core\CoreRunInsert.class
